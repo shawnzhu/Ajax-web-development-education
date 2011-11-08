@@ -1,0 +1,11 @@
+INTRODUCTION
+
+This is a single HTML based web app for students learning dojo from the very beginning.
+
+I writed this app because most of the students are struggling with server-side heavey stuff, which is far from what is being tought. So let's focus on dojo only without touch server-side container.
+
+USAGE
+step1: write javascript code in the textarea
+step2: click button "run"
+
+
