@@ -11,6 +11,7 @@ step2: click button "run"
 EXAMPLE
 fill the following snippet into the textarea:
         <script type="text/javascript">
+        dojo.require("dojo.form.Button");
         //sample code:
         function helloworld() {alert("clicked button!");}
         </script>
