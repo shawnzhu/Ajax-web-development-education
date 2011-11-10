@@ -8,4 +8,14 @@ USAGE
 step1: write javascript code in the textarea
 step2: click button "run"
 
+EXAMPLE
+fill the following snippet into the textarea:
+        <script type="text/javascript">
+        //sample code:
+        function helloworld() {alert("clicked button!");}
+        </script>
+
+        <button dojoType="dijit.form.Button" onclick="javascript:helloworld();">Hello World</button>
+
+Then click the button "run", you will see dijit button there and it prompts "clicked button!" when you click it.
 
